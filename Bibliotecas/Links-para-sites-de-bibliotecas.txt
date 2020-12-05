@@ -1,0 +1,13 @@
+https://jquerymobile.com/
+
+https://formatjs.io/
+
+https://www.dropzonejs.com/
+
+https://mathjs.org/
+
+https://sweetalert.js.org/docs/
+
+para mais Bibliotecas:
+
+https://www.google.com/search?q=library+javascript&rlz=1C1GCEB_enBR885BR885&oq=libary+jav&aqs=chrome.1.69i57j0l7.11369j0j7&sourceid=chrome&ie=UTF-8
